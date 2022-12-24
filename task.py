@@ -1,4 +1,4 @@
-array = ['gfds','gfds','g','ff','ddf']
+array = [input() for i in range(5)]
 res = []
 
 for i in array:
